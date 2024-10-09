@@ -15,13 +15,14 @@ I have good experience in programming, especially in web development using the S
 - JavaScript
 - c,c++
 
-Languages and Tools:
+### Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-blue?style=flat-square&logo=kotlin" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart" alt="Dart" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=android" alt="Android" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman" alt="Postman" />
+    <img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver" alt="MS SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-005C8D?style=flat-square&logo=mysql" alt="MySQL" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" alt="Git" />
 </p>
 
