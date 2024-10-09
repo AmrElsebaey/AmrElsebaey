@@ -5,7 +5,6 @@ I have good experience in programming, especially in web development using the S
 
 📧 **To mail me:** [amrelsebay3@gmail.com](mailto:amrelsebay3@gmail.com)  
 📧 **How to communicate with me:**
-
 🔗 [LinkedIn](https://www.linkedin.com/in/amr-elsebaey/)  
 🔗 [Facebook](https://www.facebook.com/amrelseba3y.1999)
 
