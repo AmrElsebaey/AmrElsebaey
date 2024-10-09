@@ -18,11 +18,11 @@ I have good experience in programming, especially in web development using the S
 ### Languages and Tools:
 <p>
   <img src="java-original.svg" alt="Java"  width="40" height="40"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman" alt="Postman" />
+    <img src="spring-boot.svg" alt="Spring Boot"  width="40" height="40"/>
+    <img src="postman.svg" alt="Postman"  width="40" height="40" />
     <img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver" alt="MS SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-005C8D?style=flat-square&logo=mysql" alt="MySQL" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" alt="Git" />
+    <img src="mysql-original-wordmark.svg" alt="MySQL"  width="40" height="40"/>
+    <img src="c-cpp.svg" alt="C++"  width="40" height="40"/>
+  <img src="git.svg" alt="Git"  width="40" height="40"/>
 </p>
 
