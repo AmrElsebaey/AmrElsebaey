@@ -18,9 +18,9 @@ I have good experience in programming, especially in web development using the S
 ### Languages and Tools:
 <p>
   <img src="java-original.svg" alt="Java"  width="40" height="40"/>
-    <img src="spring-boot.svg" alt="Spring Boot"  width="40" height="40"/>
-    <img src="postman.svg" alt="Postman"  width="40" height="40" />
-    <img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver" alt="MS SQL Server" />
+    <img src="icons8-spring-boot.svg" alt="Spring Boot"  width="40" height="40"/>
+    <img src="postman-icon-svgrepo-com.svg" alt="Postman"  width="40" height="40" />
+    <img src="microsoft-sql-server-logo-svgrepo-com.svg" alt="MS SQL Server" width="40" height="40" />
     <img src="mysql-original-wordmark.svg" alt="MySQL"  width="40" height="40"/>
     <img src="c-cpp.svg" alt="C++"  width="40" height="40"/>
   <img src="git.svg" alt="Git"  width="40" height="40"/>
