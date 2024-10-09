@@ -17,12 +17,12 @@ I have good experience in programming, especially in web development using the S
 
 ### Languages and Tools:
 <p>
-  <img src="java-original.svg" alt="Java"  width="40" height="40"/>
-    <img src="icons8-spring-boot.svg" alt="Spring Boot"  width="40" height="40"/>
-    <img src="postman-icon-svgrepo-com.svg" alt="Postman"  width="40" height="40" />
-    <img src="microsoft-sql-server-logo-svgrepo-com.svg" alt="MS SQL Server" width="40" height="40" />
-    <img src="mysql-original-wordmark.svg" alt="MySQL"  width="40" height="40"/>
-    <img src="c-cpp.svg" alt="C++"  width="40" height="40"/>
-  <img src="git.svg" alt="Git"  width="40" height="40"/>
+  <img src="icons/java-original.svg" alt="Java"  width="40" height="40"/>
+    <img src="icons/icons8-spring-boot.svg" alt="Spring Boot"  width="40" height="40"/>
+    <img src="icons/postman-icon-svgrepo-com.svg" alt="Postman"  width="40" height="40" />
+    <img src="icons/microsoft-sql-server-logo-svgrepo-com.svg" alt="MS SQL Server" width="40" height="40" />
+    <img src="icons/mysql-original-wordmark.svg" alt="MySQL"  width="40" height="40"/>
+    <img src="icons/c-cpp.svg" alt="C++"  width="40" height="40"/>
+  <img src="icons/git.svg" alt="Git"  width="40" height="40"/>
 </p>
 
