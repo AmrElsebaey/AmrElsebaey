@@ -1,6 +1,6 @@
 # Hi, I'm Amr Elsebaey 👋
 ## Junior Software Engineer with Great Ambition and a Passion for Learning
-**From Cairo, Egypt**  
+| From Cairo, Egypt
 
 ### I have good experience in programming, especially in web development using the Spring Boot framework.
 
