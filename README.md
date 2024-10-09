@@ -17,7 +17,7 @@ I have good experience in programming, especially in web development using the S
 
 ### Languages and Tools:
 <p>
-  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=java" alt="Java" />
+  <img src="https://iconduck.com/icons/13084/java-original" alt="Java" />
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman" alt="Postman" />
     <img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver" alt="MS SQL Server" />
