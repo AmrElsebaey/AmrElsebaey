@@ -10,7 +10,7 @@ I have good experience in programming, especially in web development using the S
 
 🗃️**Know about my experience:** [CV](https://drive.google.com/file/d/14cMUCDrSslieqfjamkO6yU5lx-osVj97/view?usp=sharing)
 
-**My Top Programming Languages:**  
+**My Top Programming Languages: 
 - Java  
 - JavaScript
 - c,c++
