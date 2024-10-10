@@ -18,12 +18,7 @@ From Cairo, Egypt
 
 ### Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-    <img src="icons/icons8-spring-boot.svg" alt="Spring Boot"  width="40" height="40"/>
-    <img src="icons/postman-icon-svgrepo-com.svg" alt="Postman"  width="40" height="40" />
-    <img src="icons/microsoft-sql-server-logo-svgrepo-com.svg" alt="MS SQL Server" width="40" height="40" />
-    <img src="icons/mysql-original-wordmark.svg" alt="MySQL"  width="40" height="40"/>
-    <img src="icons/c-cpp.svg" alt="C++"  width="40" height="40"/>
-  <img src="icons/git.svg" alt="Git"  width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,spring"/>
+    
 </p>
 
