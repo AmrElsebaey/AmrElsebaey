@@ -18,6 +18,6 @@ From Cairo, Egypt
 
 ### Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postman,c,cpp,css,eclipse,git,github,html,idea,js,mysql"/>    
+  <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,c,cpp,js,html,css,eclipse,idea,git,github"/>    
 </p>
 
